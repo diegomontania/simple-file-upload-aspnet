@@ -1,0 +1,7 @@
+C:\Users\Diego\Desktop\file-upload-jquery-aspnet\FileUploadInAspUsingjQuery\bin\FileUploadInAspUsingjQuery.dll.config
+C:\Users\Diego\Desktop\file-upload-jquery-aspnet\FileUploadInAspUsingjQuery\bin\FileUploadInAspUsingjQuery.dll
+C:\Users\Diego\Desktop\file-upload-jquery-aspnet\FileUploadInAspUsingjQuery\bin\FileUploadInAspUsingjQuery.pdb
+C:\Users\Diego\Desktop\file-upload-jquery-aspnet\FileUploadInAspUsingjQuery\obj\Debug\FileUploadJqueryAspNet.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\file-upload-jquery-aspnet\FileUploadInAspUsingjQuery\obj\Debug\FileUploadInAspUsingjQuery.dll
+C:\Users\Diego\Desktop\file-upload-jquery-aspnet\FileUploadInAspUsingjQuery\obj\Debug\FileUploadInAspUsingjQuery.pdb
+C:\Users\Diego\Desktop\file-upload-jquery-aspnet\FileUploadInAspUsingjQuery\obj\Debug\FileUploadJqueryAspNet.csprojAssemblyReference.cache
